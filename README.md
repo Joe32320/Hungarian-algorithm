@@ -12,3 +12,6 @@ First step is to call the constructor which deals with setting up the problem to
 
 To run the algorthim, call "solveProblem()", which will then proceed to solve the problem, and print out the amount of supplies to be sent from each supply vertex to each demand vertex, and the total cost associated with the problem in the Debug log within Unity.
 
+Todo:
+
+Make variation to work out the box, with an example of it working printing via command line rather than relying on Unity's debug log.
