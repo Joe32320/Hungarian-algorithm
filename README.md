@@ -14,4 +14,4 @@ To run the algorthim, call "solveProblem()", which will then proceed to solve th
 
 Todo:
 
-Make variation to work out the box, with an example of it working printing via command line rather than relying on Unity's debug log.
+Make a variation to work out the box, with an example of it working, printing via command line rather than relying on Unity's debug log.
